@@ -28,3 +28,12 @@ git status -u || will show all unstaged files under a directory, default will ju
 
 --add--
 git add -A . || will capture the moved files from the file system
+
+--reset--
+  --hard--
+  git reset --hard {commit hash} || rewrites working tree, and deletes changes 
+
+--rebase--
+config for always
+git config --global branch.autosetuprebase always
+git config branch.master.rebase true
