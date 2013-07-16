@@ -1,0 +1,20 @@
+Git worksop Tuesday
+Tim Bergland
+
+--config--
+core.autocrlf = input [true]
+
+--diff--
+git diff head || word-diff
+
+--log-- 
+git log --stat || stats on changes
+git log --patch || shows diff on each file
+git log -S "Something" || searches git logs
+git log --format=oneline --abbrev-commit || abbreviated commit = 7 chars.  Git only need >=4 to uniquely identify commit
+git log -X || x = number of entries that we want to display
+
+--git alliases--
+|| Anything in configuration that comes after alias = a new git command alias
+git config --global alias.lol "log --graph --decorate --format=oneline --abbrev-commit --all" || now have command git lol
+
