@@ -18,3 +18,13 @@ git log -X || x = number of entries that we want to display
 || Anything in configuration that comes after alias = a new git command alias
 git config --global alias.lol "log --graph --decorate --format=oneline --abbrev-commit --all" || now have command git lol
 
+--git-ignore--
+local .gitignore files can override patterns
+! || not
+git config core.excludesfile {.global git ignore location}|| use this for system wide ingoring of files ex. Thumbs.db 
+
+--status-- 
+git status -u || will show all unstaged files under a directory, default will just show a new directory and not any underlying files
+
+--add--
+git add -A . || will capture the moved files from the file system
