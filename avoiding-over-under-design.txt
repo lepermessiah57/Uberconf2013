@@ -16,3 +16,11 @@ Recommended the Head First Design Patterns book.
 Test First = Design to the public methods of the class
 TDD & Design Patterns start on the same point!
 
+Good code needs refactoring as well, sometimes the design is sufficient until new requirements come along
+
+Consider what should be variable in your design and "encapsulate the concept that varies"
+
+Lunch and learns discussion of patterns
+
+Strategy and Bridge patterns are important.  -- We should teach the team patterns...
+
