@@ -6,12 +6,32 @@ Authentication
 
 OAtuh
 	service authentication
-	valet key metaphor
+	valet key metaphor	
 	auth tokens with limited rights
 	agree/revoke rights
 	upgrade rights if needed
-	
+	grant types
+
+	response types with token, type, and scope
+
+	oauth overkill for server to server authentication
+
+	store token good algorithm
+	with salt
+	slow down the algorithm 
 
 Encryption
+	always use SSL to prevent session hijacking
+	cookie.setSecure(true);
+	HTTP Strict Transport Security RFC6797
+
+	CSRF attack prevention
+	spec defines a state parameter that must be included
+	burp suite || paros proxy
+	CSRFGuard -- JAVA based
+
 Validation
+	Restrict content-type
+	Restrict methods when applicable
+	
 Wrap Up
