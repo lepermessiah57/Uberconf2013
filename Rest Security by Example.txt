@@ -1,0 +1,17 @@
+Rest Security by Example
+Frank Kim
+
+Authentication
+	Reset password security is easily passable with simple questions
+
+OAtuh
+	service authentication
+	valet key metaphor
+	auth tokens with limited rights
+	agree/revoke rights
+	upgrade rights if needed
+	
+
+Encryption
+Validation
+Wrap Up
