@@ -1,0 +1,18 @@
+Avoiding Over and Under Design
+Alan Shalloway
+
+Emergent Design - Alternate Title
+
+Test - the procedure of submitting a statement to such conditions or operations as will lead to its proof or disproof or to its acceptance or rejection.
+
+We look at code and think "Man, I'm glad I'm not maintaining that!"
+
+"We never realize the slow degredation of our code"
+
+Never make your code worse without intending to make it worse.
+
+Recommended the Head First Design Patterns book.
+
+Test First = Design to the public methods of the class
+TDD & Design Patterns start on the same point!
+
