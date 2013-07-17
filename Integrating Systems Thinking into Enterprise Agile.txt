@@ -1,3 +1,20 @@
 Integrating Systems Thinking into Enterprise Agile with the Lessons of Lean
 Alan Shalloway
 
+"Which part of the airplane is responsible for flight?"
+Changing one piece will effect all of the others
+
+Key people working on too many things.....
+
+Delivering value quickly is more important than having all of the features.  It doesn't always work, but generally it is feasable to find some functionality that can be delivered quickly
+
+The majority of features are never or rarely used.
+Focusing on the most important features and delivering on those first will prevent many feature waste
+Look at time to market, not cost of the time...
+
+Deliver in stages when possible,
+Measure the delays with in the process from idea -> approval -> requests -> ... -> code -> ... -> deploy
+Easier to reduce delays to improve productivity
+
+Management doesn't understand the technical issues, debt, etc just as the technicals do not see the business requirements
+
