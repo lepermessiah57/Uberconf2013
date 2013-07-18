@@ -1,0 +1,7 @@
+Leading Technical Change
+Nathaniel Schutta
+
+Technology doesn't age well!
+
+Old code works, but how much is it costing us?
+

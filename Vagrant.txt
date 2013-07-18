@@ -2,3 +2,19 @@ Vagrant
 Virtualized Development Environments Made Easy
 Matt Stine
 
+Puppet, Chef, CFEngine(outdated)
+
+Base Boxes - bare bones image
+
+http://packer.io - tool for creating identical machine images for multiple platforms from a single source configuration
+
+vmware plug
+
+vagrant ssh
+
+puppet manifests, firewarlls, etc
+
+vagrant plugin for jenkins
+boot up vangrant and run it package and distribute
+
+chef - cookbooks
