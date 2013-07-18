@@ -29,11 +29,8 @@ DNS Vendors -
 	DynECT
 	UltraDNS
 	others
-
- 
-
-Cloud Pricing
-
+Different api's between all the different cloud vendors HTTP/REST/SOAP
+batch migration operations
 
 Misc
 Chaos Monkey!!!
@@ -44,3 +41,6 @@ Latency Monkey - random timeouts, ssl certificate invalidating
 
 Large plug on OSS prizes for Netflix Contributing
 "Get Shit Done!"
+
+Dagger
+http://square.github.io/dagger
