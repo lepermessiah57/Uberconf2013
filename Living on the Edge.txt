@@ -1,3 +1,46 @@
 Living on the Edge
 Adrian Cole
 
+Netflix Streaming
+CDN - open source hardware + FreeBSD, bird, nginx
+Pushing out the servers closer to the local ISP's that netflix pays for
+Most bandwidth coming from CDN instead of EC2
+~10,000 east coast EC2 servers
+~1000 Oregan EC2
+~3000 Ireland
+Content partition by locations
+AppDynamics for metrics (partnered with)
+Mostly Java apps using Guice
+Memcache + ebcache
+Zule?
+Asgard web based cloud management
+Jenkins -> RPM...... REDHAT?!?!?!
+
+DNS Primer
+Series of regional load balancers
+
+
+Denominator Deep Dive
+Use cases: 
+	Edda - scala mongo
+	multi regional fail overs
+DNS Vendors -
+	AWS S3
+	DynECT
+	UltraDNS
+	others
+
+ 
+
+Cloud Pricing
+
+
+Misc
+Chaos Monkey!!!
+Chaos Gorilla - takes out load balancers
+Chaos Kong - takes out all of load balancers on one side
+Janitor Monkey - 
+Latency Monkey - random timeouts, ssl certificate invalidating
+
+Large plug on OSS prizes for Netflix Contributing
+"Get Shit Done!"
