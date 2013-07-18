@@ -1,3 +1,30 @@
 Linking Resources
 Brian Sletten
 
+http://apiary.io/ -- online apSPAi documention written in MD
+
+RDF
+SPARQL
+Linked Data
+
+"We are disagreable sonuvabitches"
+
+* databases are terrible at data integration and modeling data
+
+social networking schema FOAF - friend of a friend
+
+rdf - we have rdf - "Resource Describing Framework"
+
+xml, Turtle can also be utilized
+http://en.wikipedia.org/wiki/Turtle_(syntax)
+
+SPARQL
+
+d2rq
+
+SPARQL can have optional queries
+
+SPARQL 1.0 - r/o
+SPARQL 1.1 - r/w
+
+http://www.w3.org/wiki/SweoIG/TaskForces/CommunityProjects/LinkingOpenData
