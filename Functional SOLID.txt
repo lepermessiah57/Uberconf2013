@@ -1,0 +1,12 @@
+Functional SOLID
+Matt Stine
+
+We don't handle change well
+
+Single Responsibly Principle
+
+Open Closed Principle
+
+Liskov Substitution Principle
+
+Simple Made Easy infoq.com
